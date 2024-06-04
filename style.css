@@ -199,7 +199,6 @@ button:active {
   padding: 8px;
 }
 
-
 .header__img--wrapper {
   padding: 20px;
   z-index: 2;
@@ -224,7 +223,6 @@ button:active {
 .no-cursor {
   cursor: not-allowed;
 }
-
 
 /* LANDING */
 
@@ -314,7 +312,7 @@ header {
 }
 
 .book {
-width: 25%;
+  width: 25%;
   padding: 24px;
 }
 
@@ -434,12 +432,10 @@ footer {
   }
 
   .book {
-    
     width: 50%;
   }
 
   .book__img--wrapper {
-    
   }
 }
 
