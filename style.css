@@ -309,6 +309,7 @@ header {
 
 .books {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .book {
@@ -433,9 +434,6 @@ footer {
 
   .book {
     width: 50%;
-  }
-
-  .book__img--wrapper {
   }
 }
 
